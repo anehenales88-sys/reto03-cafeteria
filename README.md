@@ -18,3 +18,8 @@ Para visualizar la página, hay que abrir el archivo `index.html` con un navegad
 - Incorporar imágenes de los productos.
 - Adaptar el diseño a diferentes tamaños de pantalla.
 - Mejorar la navegación en dispositivos móviles.
+
+
+## Estado del proyecto
+
+La landing está publicada como una página estática y se puede abrir directamente en un navegador. Actualmente contiene una presentación, una carta de productos y un apartado de contacto y horario.
